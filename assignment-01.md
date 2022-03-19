@@ -14,6 +14,7 @@ E.g. Question
 5. Create a new folder name 'AR' in your repo. Upload Annual Report 2018 - 2020 for companies below:
 (a) ViTrox Corp
 (b) Pentamaster Corp
+*There should be at least 6 PDF files.
 
 6. Who are the users of annual reports?
 
@@ -21,6 +22,9 @@ E.g. Question
 
 8. You have RM 10,000 savings and want to purchase shares as an investment for earning side income. 
 You have listed two potential companies and need to select one company to invest. 
-Comparing Pentamaster Corporation Berhad and ViTrox Corporation Bhd. Justify your investment choice.
+Comparing _Pentamaster Corporation Bhd._ and _ViTrox Corporation Bhd._ Justify your investment choice.
 
 9. List down at least 2 investment resources (blogs/any media) that you found useful.
+
+-- End --
+*Add 'Completed' as commit message after completing the assignment.
