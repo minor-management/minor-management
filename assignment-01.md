@@ -1,6 +1,6 @@
 ### Type your answer after every question. You are required to cite your reference for every question.
 
-E.g. Question
+E.g. Question <br>
 {Answer} {Reference}
 
 1. What is the difference between private limited and public limited company? State one example for each type.
@@ -11,10 +11,10 @@ E.g. Question
 
 4. Name the stock exchange of Malaysia.
 
-5. Create a new folder name 'AR' in your repo. Upload Annual Report 2018 - 2020 for companies below:
-(a) ViTrox Corp
-(b) Pentamaster Corp
-*There should be at least 6 PDF files.
+5. Create a new folder name 'AR' in your _repo main branch_. Upload Annual Report 2018 - 2020 for companies below: <br>
+(a) ViTrox Corp <br>
+(b) Pentamaster Corp <br> 
+*There should be at least 6 PDF files. <br>
 
 6. Who are the users of annual reports?
 
@@ -26,5 +26,5 @@ Comparing _Pentamaster Corporation Bhd._ and _ViTrox Corporation Bhd._ Justify y
 
 9. List down at least 2 investment resources (blogs/any media) that you found useful.
 
--- End --
+-- End -- <br>
 *Add 'Completed' as commit message after completing the assignment.
